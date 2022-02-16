@@ -18,3 +18,7 @@ Steps to run .py file (not recommended)
 Dataset url: https://archive.ics.uci.edu/ml/machine-learning-databases/cpu-performance/machine.data
 
 Github url: https://github.com/Adithya-Iyer/ML_LinearRegression_SGD
+
+Google Colab url: https://colab.research.google.com/drive/1nCUyjfKiR-ms8zWq2aIoJX870jND6PLb?usp=sharing
+
+This notebook is shared for writing with more than one user. Automatically running multiple cells is temporarily disabled due to possible insecure code modifications outside of this session. Run each cell of this notebook manually using Shift+Enter or the run button.
